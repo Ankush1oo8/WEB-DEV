@@ -1,0 +1,30 @@
+div{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(255, 0, 50, 0.3);
+    box-shadow: 2px 2px 8px ;
+}
+#opacity{
+    background-color: purple;
+    opacity: 0.5;
+    margin-bottom: 20px;
+}
+#circle{
+    height: 300px;
+    width: 300px;
+    background-color: orange;
+    transition:border-radius 0.2s ease-in-out 0.2s;
+
+}
+#circle:hover{
+    background-color: black;
+    border-radius: 50%;
+}
+#img{
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+    margin: 10px auto;
+    background-image: url("./download.jpg");
+    background-size: autoo;
+}
