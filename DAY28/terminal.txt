@@ -1,0 +1,23 @@
+command line-any interface that is used bt entering textual commands
+
+terminal-type of command line
+console-command line used to interact with computer
+
+basic commands:-
+ls=list files(show my files)
+
+pwd=print working directory
+
+clear=clear screen
+
+cd=change directory
+ 
+mkdir=to make new directory
+
+touch = creating files
+
+rem=removes files
+
+rmdir= remove empty folders
+
+rm-rf= removes any folders
