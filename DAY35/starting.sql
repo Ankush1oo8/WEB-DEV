@@ -1,4 +1,3 @@
--- Active: 1720711475055@@127.0.0.1@3306@college
 
 CREATE DATABASE if not EXISTS instagram;
 
